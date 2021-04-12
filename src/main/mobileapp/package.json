@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.p0003",
+  "displayName": "P0003",
+  "version": "1.0.0",
+  "description": "P0003",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}
